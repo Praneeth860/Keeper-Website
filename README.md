@@ -7,6 +7,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Material Icons](https://img.shields.io/badge/Material%20Icons-0081CB?style=for-the-badge&logo=google&logoColor=white)
 
+![Screenshot 2025-06-07 171735](https://github.com/user-attachments/assets/a3019ec8-2c00-43f3-a239-57ec0c8cdcb9)
+
+![Screenshot 2025-06-07 171300](https://github.com/user-attachments/assets/e2070a73-9fdd-4cfe-9ddf-2650156c3a74)
+
+
 ## 🌟 Overview
 
 The **Keeper App** is a React-based notes application that provides a smooth and responsive user experience. It allows users to add and delete notes effortlessly while ensuring a well-structured and visually appealing UI.
